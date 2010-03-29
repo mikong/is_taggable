@@ -43,9 +43,9 @@ As a rails gem dependency:
 
 Or get the source from github:
 
-  $ git clone git://github.com/giraffesoft/is_taggable.git
+  $ git clone git://github.com/jamesgolick/is_taggable.git
 
-(or fork it at http://github.com/giraffesoft/is_taggable)
+(or fork it at http://github.com/jamesgolick/is_taggable)
 
 == Credits
 
